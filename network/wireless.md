@@ -19,3 +19,11 @@ Scan network
 ```Shell
 $ sudo iwlist wlan0 scan | grep ESSID
 ```
+
+## 3. iwconfig
+
+Get wireless information
+
+```Shell
+$iwconfig wlan0
+```
