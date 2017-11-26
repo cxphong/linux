@@ -10,6 +10,7 @@
   ExecStart=/usr/local/bin/turnserver
   Restart=always
   RestartSec=10s
+  User=cxp1991 # Run with specific user
 
   [Install]
   WantedBy=multi-user.target
