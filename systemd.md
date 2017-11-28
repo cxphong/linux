@@ -32,5 +32,5 @@
 #### 4. **Log**
 
   ```bash
-  sudo journal -u turn
+  sudo journalctl -u turn
   ```
