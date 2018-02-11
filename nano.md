@@ -16,3 +16,9 @@ esc + e
 Go to end: ctrl + e
 go to head: ctrl + a
 ```
+
+#### 4. **Selection**
+
+```bash
+esc + 6
+```
