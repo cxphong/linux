@@ -10,7 +10,7 @@ esc + u
 esc + e
 ```
 
-#### 2. **Move**
+#### 3. **Move**
 
 ```bash
 Go to end: ctrl + e
