@@ -9,3 +9,10 @@ esc + u
 ```bash
 esc + e
 ```
+
+#### 2. **Move**
+
+```bash
+Go to end: ctrl + e
+go to head: ctrl + a
+```
