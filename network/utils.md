@@ -36,7 +36,7 @@
   nc -zv <host> <port>
 ```
 
-## 6. List all ip connecto to port
+## 6. List all ip connect to port
 
 ```
 netstat -tn 2>/dev/null | grep :<port> | awk '{print $5}' | cut -d: -f1 | sort | uniq -c | sort -nr | head
